@@ -19,3 +19,5 @@ Red Baron https://github.com/Coalfire-Research/Red-Baron <br>
   https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki <br>
   https://github.com/yeyintminthuhtut/Awesome-Red-Teaming <br>
   https://github.com/Hack-with-Github/Windows <br>
+  Windows Post exploitation https://github.com/dostoevskylabs/dostoevsky-pentest-notes/blob/master/chapter-4.md <br>
+  Linux post exploitation https://github.com/dostoevskylabs/dostoevsky-pentest-notes/blob/master/chapter-5.md <br>
