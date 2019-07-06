@@ -1,7 +1,7 @@
 # Red-Team
 
-<B>Running Powershell commands without powershell  <B><br>
+<B>Running Powershell commands without powershell  <\B><br>
   https://github.com/Mr-Un1k0d3r/PowerLessShell
   
-  Red team powershell scripts <br>
+  <b>Red team powershell scripts <\b><br>
   https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts
