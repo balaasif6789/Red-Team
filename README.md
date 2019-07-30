@@ -1,5 +1,12 @@
 # Red-Team
 
+<b> Enumeration </b> <br>
+
+<b> Github </b> <br>
+Gitleaks https://github.com/zricethezav/gitleaks  
+
+
+
 <b>Running Powershell commands without powershell  </b><br>
   https://github.com/Mr-Un1k0d3r/PowerLessShell
   
