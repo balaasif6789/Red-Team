@@ -13,6 +13,9 @@ Gitleaks https://github.com/zricethezav/gitleaks
   <b>Red team powershell scripts </b><br>
   https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts
 
+<b> C# scripts Red Team </b><br>
+https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts
+
 <b> AV evasaion </b>  <br>
 https://www.nopsec.com/pen-testing-toolkit-tools-techniques-used-to-evade-antivirus-software/
 
