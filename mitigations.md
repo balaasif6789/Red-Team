@@ -23,5 +23,6 @@ https://docs.microsoft.com/en-us/windows/security/identity-protection/credential
 sekurlsa::pth /user:<user> /domain:<domain> /ntlm:<ntlmhash>: Did not work: <br>
 lsadump::lsa: Did not work: <br>
 
+ensur that the mimikatz mimilib.dll binary is in the same directory as mimikatz.exe, start mimikatz.exe,  and run the mimikatz <b> “misc::memssp” command: </b>
 
 
