@@ -29,4 +29,9 @@ ensur that the mimikatz mimilib.dll binary is in the same directory as mimikatz.
 Now we have an SSP injected into memory. In essence, mimikatz is registering mimilib.dll as an SSP, allowing mimikatz to log the passwords of all users who login to c:\windows\system32\mimilsa.log. <br> 
 Next I hit ctrl-alt-del and selected “Lock” and then logged in. After logging in, I opened a cmd prompt and typed “type c:\windows\system32\mimilsa.log” and verified that my clear text credentials there.
 
+
+“http://www.thesecurityblogger.com/understanding-powersploit-mimikatz-and-defense/mimikatz-driver-remove-lsass-protection/” <br>
+https://twitter.com/gentilkiwi/status/942912600991465472?lang=en <br>
+https://medium.com/red-teaming-with-a-blue-team-mentaility/poking-around-with-2-lsass-protection-options-880590a72b1a <br>
+
 **********************************************************************************************************************************
