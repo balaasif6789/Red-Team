@@ -2,7 +2,7 @@
 
 1. LSA protection  <br>
 enable LSA Protection by following the steps posted at: <b>
-https://docs.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection:
+https://docs.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection: </b>
 
 Using regedit, I navigated to: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa <br>
 Then I set the value of the registry key to: <b> “RunAsPPL”=dword:00000001 </b>
