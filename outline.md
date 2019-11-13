@@ -2,14 +2,14 @@ Running sharphound
 
 runas.exe /netonly /user:completedomainname\userid cmd.exe         complete fqdn eg. domainname.local
 
-SharpHound.exe -c All -d sbmbank.local --IgnoreLdapCert -v
+SharpHound.exe -c All -d domain.local --IgnoreLdapCert -v
 
 
 
 
 Running goddi 
 
-goddi-windows-amd64.exe  -dc="MUMSBMADS2.sbmbank.local" -domain="sbmbank.local" -username="IA80000" -password="P@ssword"  -unsafe
+goddi-windows-amd64.exe  -dc="DC.domain.local" -domain="domain.local" -username="dummy" -password="dummy"  -unsafe
 
 
 PinCastle for Active directory audit.  
