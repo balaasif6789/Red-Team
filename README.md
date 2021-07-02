@@ -22,6 +22,7 @@ https://www.nopsec.com/pen-testing-toolkit-tools-techniques-used-to-evade-antivi
 <b>Tools </b>
 
 Red Baron https://github.com/Coalfire-Research/Red-Baron <br>
+https://github.com/0xbadjuju/ <br>
 
 
 
