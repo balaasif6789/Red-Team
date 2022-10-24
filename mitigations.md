@@ -35,3 +35,10 @@ https://twitter.com/gentilkiwi/status/942912600991465472?lang=en <br>
 https://medium.com/red-teaming-with-a-blue-team-mentaility/poking-around-with-2-lsass-protection-options-880590a72b1a <br>
 
 **********************************************************************************************************************************
+  
+  <b>Active Directory  Password Policy - Banned password list </b> 
+ 
+  https://blog.lithnet.io/2019/01/lppad-1.html?m=1 <br>
+  https://github.com/ryanries/PassFiltEx <br>
+  
+  
