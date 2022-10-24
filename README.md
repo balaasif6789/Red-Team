@@ -33,3 +33,5 @@ https://github.com/0xbadjuju/ <br>
   https://github.com/Hack-with-Github/Windows <br>
   Windows Post exploitation https://github.com/dostoevskylabs/dostoevsky-pentest-notes/blob/master/chapter-4.md <br>
   Linux post exploitation https://github.com/dostoevskylabs/dostoevsky-pentest-notes/blob/master/chapter-5.md <br>
+  Red Team Cheat Sheet https://0xsp.com/offensive/red-team-cheatsheet/ <br>
+  
