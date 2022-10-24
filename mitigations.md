@@ -40,5 +40,6 @@ https://medium.com/red-teaming-with-a-blue-team-mentaility/poking-around-with-2-
  
   https://blog.lithnet.io/2019/01/lppad-1.html?m=1 <br>
   https://github.com/ryanries/PassFiltEx <br>
+  https://github.com/jephthai/OpenPasswordFilter <br>
   
   
