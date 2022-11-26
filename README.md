@@ -28,10 +28,13 @@ https://github.com/0xbadjuju/ <br>
 
  <b>Links</b>
   
+  https://wiki.porchetta.industries/ <br>
+  https://www.ired.team/ <br>
   https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki <br>
   https://github.com/yeyintminthuhtut/Awesome-Red-Teaming <br>
   https://github.com/Hack-with-Github/Windows <br>
   Windows Post exploitation https://github.com/dostoevskylabs/dostoevsky-pentest-notes/blob/master/chapter-4.md <br>
   Linux post exploitation https://github.com/dostoevskylabs/dostoevsky-pentest-notes/blob/master/chapter-5.md <br>
+  
   Red Team Cheat Sheet https://0xsp.com/offensive/red-team-cheatsheet/ <br>
   
