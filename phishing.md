@@ -8,5 +8,5 @@ Links
 https://dhiyaneshgeek.github.io/red/teaming/2022/01/22/phishing-go-phish/ <br>
 https://infosecwriteups.com/recipe-for-a-successful-phishing-campaign-part-1-2-dc23d927ec55 <br>
 
-Evading security controls
+Evading security controls to evadae security controls<br> 
 https://www.sprocketsecurity.com/resources/never-had-a-bad-day-phishing-how-to-set-up-gophish-to-evade-security-controls
