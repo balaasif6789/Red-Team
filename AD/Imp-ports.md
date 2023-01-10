@@ -1,12 +1,21 @@
 Below Ports which needs to be opened for Active directory to function properly
+
 UDP Port 88 for Kerberos authentication
+
 UDP and TCP Port 135 for domain controllers-to-domain controller and client to domain controller operations.
+
 TCP Port 139 and UDP 138 for File Replication Service between domain controllers.
+
 UDP Port 389 for LDAP to handle normal queries from client computers to the domain controllers.
+
 TCP and UDP Port 445 for File Replication Service
+
 TCP and UDP Port 464 for Kerberos Password Change
+
 TCP Port 3268 and 3269 for Global Catalog from client to domain controller.
+
 TCP and UDP Port 53 for DNS from client to domain controller and domain controller to domain controller.
+
 Also refer below link which will explains this in more detail.
 
 Port used in Active directory Replication.
