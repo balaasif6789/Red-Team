@@ -24,7 +24,9 @@ http://blogs.technet.com/b/janelewis/archive/2006/11/13/ports-used-in-active-dir
 
 Active directroy and Firewall ports,
 
-http://geekswithblogs.net/TSCustomiser/archive/2007/05/09/112357.aspx
+http://geekswithblogs.net/TSCustomiser/archive/2007/05/09/112357.aspx <br>
+https://cloudinfrastructureservices.co.uk/active-directory-ports/ <br>
+https://blogs.msmvps.com/acefekay/2011/11/01/active-directory-firewall-ports-let-s-try-to-make-this-simple/ <br>
 
 Active Directory Replication over Firewall
 
