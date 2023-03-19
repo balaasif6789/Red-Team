@@ -13,4 +13,4 @@ https://www.sprocketsecurity.com/resources/never-had-a-bad-day-phishing-how-to-s
 
 <b><h2>MOTW attribute </b></h2><br>
   https://securelist.com/bluenoroff-methods-bypass-motw/108383/ <br>
-  
+  https://www.cisecurity.org/insights/blog/cyber-threat-actors-evading-motw-for-malware-delivery <br>
